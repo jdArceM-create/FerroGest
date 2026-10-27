@@ -1,8 +1,8 @@
 {
-  "latest_version": "1.0.6",
-  "download_url": "https://github.com/jdArceM-create/FerroGest/releases/download/v1.0.6/app.zip",
-  "sha256": "25ca352ef4a9878e742f8baf34343fe7a654d6ba8850e60a7d6d8dee38a6408d",
+  "latest_version": "1.0.7",
+  "download_url": "https://github.com/jdArceM-create/FerroGest/releases/download/v1.0.7/app.zip",
+  "sha256": "f4a2c47ddc70e1374cce5c98b0450a04b1c9847a0af6a7f54c6bf93a64e4a50c",
   "release_notes": [
-    "Versión ejecutable inicial de FerroGest"
+    "Mejoras y correcciones de errores"
   ]
 }
